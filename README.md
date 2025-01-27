@@ -1,16 +1,10 @@
-# myapp
+Calculadora Flutter 🔢
+Este projeto é uma calculadora desenvolvida em Flutter, oferecendo uma interface simples e intuitiva para operações matemáticas básicas.
+Foi criado para aprimorar habilidades em desenvolvimento web com Flutter, para o curso de desenvolvimento web do Talento Tech - PR.
 
-A new Flutter project.
+Flutter Calculator 🔢
+This project is a calculator developed in Flutter, offering a simple and intuitive interface for basic mathematical operations.
+It was created to enhance skills in web development with Flutter, as part of the web development course at Talento Tech - PR.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
